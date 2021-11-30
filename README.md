@@ -1,5 +1,6 @@
 # sayeh
 Sayeh creates passwords using special words
+
 A project for entertainment :)
 
 The Sayeh creates a password list in six different sizes based on the names you give it as input.
