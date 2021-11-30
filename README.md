@@ -7,7 +7,8 @@ The Sayeh creates a password list in six different sizes based on the names you 
 You can create a password list for the target organization.
 Password list for online bruteforce such as SSH and SMB.
 Password list to crack by GPU as their number increases.
-Sayeh is a Persian word & Means shadow
+
+Sayeh is a Persian word & Means shadow.
 
 
 # Required Programs
