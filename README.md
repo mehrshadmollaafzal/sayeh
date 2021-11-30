@@ -4,7 +4,8 @@ Sayeh creates passwords using special words
 A project for entertainment :)
 
 The Sayeh creates a password list in six different sizes based on the names you give it as input.
-You can create a password list for the target organization.
+You can create a specific password list for an organization.
+
 Password list for online bruteforce such as SSH and SMB.
 Password list to crack by GPU as their number increases.
 
