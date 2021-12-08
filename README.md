@@ -10,6 +10,9 @@ Password list for online bruteforce such as SSH and SMB.
 Password list to crack by GPU as their number increases.
 Sayeh does not combine your input words.
 
+Considers all uppercase and lowercase letters.
+Depending on the size of the password list, it uses special characters.
+
 Sayeh is a Persian word & Means shadow.
 
 
