@@ -15,8 +15,6 @@ Depending on the size of the password list, it uses special characters.
 
 Sayeh is a Persian word & Means shadow.
 
-My programmer friends, if part of my code is beginner I apologize.
-
 
 # Required Programs
 ```
