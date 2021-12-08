@@ -8,6 +8,7 @@ You can create a specific password list for an organization.
 
 Password list for online bruteforce such as SSH and SMB.
 Password list to crack by GPU as their number increases.
+Sayeh does not combine your input words.
 
 Sayeh is a Persian word & Means shadow.
 
