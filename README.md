@@ -24,6 +24,8 @@ Python3
 OS Module
 itertools Module
 ```
+There is usually no need to install these modules because they are built-in modules.
+
 # Run Sayeh
 ```
 git clone https://github.com/mehrshadmollaafzal/sayeh.git
