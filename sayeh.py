@@ -551,8 +551,8 @@ elif GPU_str == 'o':
 
 
 # delete duplicate pass
-uniqlines = set(open(Filename).readlines())
-bar = open(Filename, 'w').writelines(set(uniqlines))
+# uniqlines = set(open(Filename).readlines())
+# bar = open(Filename, 'w').writelines(set(uniqlines))
 
 file1 = open(Filename, "r")
 line_count = 0
